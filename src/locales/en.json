@@ -1,0 +1,8 @@
+{
+  "welcome_message": "Welcome to our application",
+  "name": "My name is Sabbir",
+  "language_label": "Choose your language",
+  "about": "This is a multilingual application.",
+  "contact": "Contact us at example@example.com",
+  "footer_message": "All rights reserved."
+}
